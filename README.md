@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zacharyfor
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning ... Python & SQL
+- 💞️ I’m looking to collaborate on ... Data scraping projects
+- 📫 How to reach me ... Zacharyfor@gmail.com
